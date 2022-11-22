@@ -1,0 +1,22 @@
+// Glosario de términos //
+-Add: Función que agrega
+-Algorithm: Para convertir los datos a Mayúsculas.
+-Atributo: Característica identificable de un determinado objeto de la realidad.
+	   Ej: Un carro cuenta con los atributos marca,color,modelo,peso,etc.
+-Clase: Colección de variables (atributos y propiedades ) empleados para representar un conjunto de datos.
+-Cstdlib: Agrega los nombres asociados al espacio de nombres std.
+-Conio.h: Para el encriptado de la contraseña
+-Ctime: Para usar fecha y hora
+-Fstream: Para usar archivos tipo .csv (nuestro caso)
+-Getters: Métodos empleados para obtener un atributo específico perteneciente a una clase.
+-Header: Archivo de cabecera. Es el código que contiene un con
+-Iostream: Biblioteca de flujos de entrada y salida estándar de C++.
+-Iomanip: Biblioteca para el mejor ordenamiento de listas
+-Left: Ordena las columnas hacia la izquierda.
+-Método: Función perteneciente a una clase que representa un acción que realiza el objeto en la realidad.
+   Ej: El objeto carro tiene como métodos prender,acelerar,frenar,apagar.
+-Pragma once: Carga el proceso y lo guarda, para que en la siguiente compilación no demore en cargar.
+-Setters: Métodos empleados para asignar 
+-Setw: Ingresamos el valor de cuanto queremos que sea el ancho de una columna.
+-This: Palabra reservada para especificar que se trabaja con un atributo privado de la variable
+-Vector: Usar la variable Vector para usarla en conjunto con el agregado de datos en el archivo .csv
